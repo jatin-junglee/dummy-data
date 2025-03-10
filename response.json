@@ -1,4 +1,20 @@
 {
-  "tittle" : "Sample title",
-  "desc" : "Dummy dataaaa"
+    "currentFinancialYear": {
+        "deposits": 5000.00,
+        "withdrawals": 2000.00,
+        "closingBalance": 3000.00,
+        "openingBalance": 2000.00,
+        "netWinnings": 3000.00,
+        "totalTax": 300.00,
+        "FY": "2024-25"
+    },
+    "previousFinancialYear": {
+        "deposits": 4500.00,
+        "withdrawals": 1800.00,
+        "closingBalance": 2700.00,
+        "openingBalance": 1900.00,
+        "netWinnings": 2800.00,
+        "totalTax": 0.00,
+        "FY": "2023-24"
+    }
 }
